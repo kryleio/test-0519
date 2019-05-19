@@ -9,6 +9,8 @@ public class hello {
     {
         System.out.println("真的傻逼吗   ？？？");
         System.out.println("也许吧");
+        System.out.println("是真的");
+
 
 
     }
